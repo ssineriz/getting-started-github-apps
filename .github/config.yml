@@ -7,10 +7,10 @@
 
 # Or an array:
 requestInfoReplyComment:
- - Ah no! young blade! That was a trifle short!
- - Tell me more !
- - I am sure you can be more effusive
- - And so ?
+ - Ah no! young blade! That was a trifle short! /play danielsan
+ - Tell me more ! /play cottoneyejoe
+ - I am sure you can be more effusive /play dangerzone
+ - And so ? /play nyan
 
 
 # *OPTIONAL* default titles to check against for lack of descriptiveness
